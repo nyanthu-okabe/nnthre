@@ -167,5 +167,5 @@ def error_return(error):
         error_body=error.body,
         error_status=error.status)
 
-if __name__ == '__main__':
-    run(app=application, host='localhost', port=8081)
+#if __name__ == '__main__':
+#    run(app=application, host='localhost', port=8081)

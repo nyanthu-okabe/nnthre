@@ -4,7 +4,7 @@ from bottle import (
     route, run, template, request, redirect, static_file, response, SimpleTemplate, error, Bottle
 )
 from werkzeug.security import generate_password_hash, check_password_hash
-from test.test_typing import BottomTypeTestsMixin
+#from test.test_typing import BottomTypeTestsMixin
 #from black.output import err
 
 # --- 設定 ---

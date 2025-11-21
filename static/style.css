@@ -10,7 +10,7 @@ body {
 .container {
     width: 80%;
     margin: 0 auto;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
 }
 
 .header {
@@ -26,16 +26,16 @@ body {
 h1 {
     font-size: 24px;
     color: #800000;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     padding: 10px;
     margin-top: 0;
-    border: 1px solid#f0f0f0;
+    border: 1px solid#ffffff;
 }
 
 h2 {
     font-size: 20px;
     color: #800000;
-    border-bottom: 1px solid#f0f0f0;
+    border-bottom: 1px solid#ffffff;
     padding-bottom: 5px;
 }
 
@@ -83,7 +83,7 @@ h2 {
 }
 
 form {
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     border: none;
     padding: 0;
     margin-top: 20px;

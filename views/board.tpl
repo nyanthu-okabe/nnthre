@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Test</title>
+    <title>NThread</title>
     <link rel="stylesheet" type="text/css" href="/static/style.css">
 </head>
 <body>

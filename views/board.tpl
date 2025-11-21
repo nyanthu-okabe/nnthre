@@ -17,7 +17,7 @@
             % end
         </div>
 
-        <h1>Nyanchu ch</h1>
+        <h1>NThread</h1>
 
         <div class="thread-list">
             <h2>Threads</h2>

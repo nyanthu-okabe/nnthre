@@ -15,6 +15,7 @@
                 <a href="/login">Login</a>
                 <a href="/register">Register</a>
             % end
+            <a href="https://www.nyanthu.com/en/policy">Policy</a>
         </div>
 
         <h1>NThread</h1>

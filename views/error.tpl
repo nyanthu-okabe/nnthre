@@ -1,5 +1,7 @@
+<!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>{{ error_status }}</title>
     <link rel="stylesheet" type="text/css" href="/static/style.css">
 </head>
@@ -14,5 +16,6 @@
             <br>
             <a href="/">Back to Board</a>
         </p>
+    </div>
 </body>
 </html>

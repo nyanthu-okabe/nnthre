@@ -14,6 +14,7 @@
         <form action="/register" method="post">
             <input type="text" name="username" placeholder="Username" required><br>
             <input type="password" name="password" placeholder="Password" required><br>
+            <p><input type="checkbox" required> I agree to the <a href="https://www.nyanthu.com/en/policy">Policy</a></p>
             <input type="submit" value="Register">
         </form>
         <p>Already have an account? <a href="/login">Login here</a>.</p>

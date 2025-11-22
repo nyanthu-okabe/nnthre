@@ -18,6 +18,8 @@
             <input type="submit" value="Register">
         </form>
         <p>Already have an account? <a href="/login">Login here</a>.</p>
+        <br>
+        <a href="/">Back to Board</a>
     </div>
 </body>
 </html>
